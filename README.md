@@ -19,3 +19,5 @@ contoh/
 ├── nginx.yaml                     # Deploy sederhana NGINX
 ├── nginx-with-label.yml          # Deploy NGINX dengan label
 ├── nginx-with-annotation.yml     # Deploy NGINX dengan annotation
+
+<img src="https://pin.it/2sCrgSifo" />
