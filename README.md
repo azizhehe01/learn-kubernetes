@@ -20,4 +20,5 @@ contoh/
 ├── nginx-with-label.yml          # Deploy NGINX dengan label
 ├── nginx-with-annotation.yml     # Deploy NGINX dengan annotation
 
-<img src="awikwok/awikwok.jpg/>
+<img src="awikwok/awikwok.jpg" alt="Awikwok" width="300"/>
+
