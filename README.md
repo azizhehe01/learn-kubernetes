@@ -8,7 +8,7 @@ Repo ini berisi berbagai file konfigurasi YAML dan eksperimen pribadi saya saat 
 ## 🚀 Tujuan
 
 Tujuan dari repo ini adalah sebagai catatan belajar pribadi, serta referensi untuk siapa pun yang ingin mulai belajar Kubernetes melalui contoh nyata.
-![Awikwok](awikwok/awikwok.jpg)
+<img src="awikwok/awikwok.jpg" alt="Awikwok" width="300"/>
 
 ---
 
