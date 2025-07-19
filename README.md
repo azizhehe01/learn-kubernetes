@@ -20,6 +20,8 @@ contoh/
 ├── nginx.yaml                     # Deploy sederhana NGINX
 ├── nginx-with-label.yml          # Deploy NGINX dengan label
 ├── nginx-with-annotation.yml     # Deploy NGINX dengan annotation
+├── nginx-with-probe.yaml         # Contoh pembuatan probe
+
 
 
 
