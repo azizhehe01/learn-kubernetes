@@ -8,6 +8,7 @@ Repo ini berisi berbagai file konfigurasi YAML dan eksperimen pribadi saya saat 
 ## 🚀 Tujuan
 
 Tujuan dari repo ini adalah sebagai catatan belajar pribadi, serta referensi untuk siapa pun yang ingin mulai belajar Kubernetes melalui contoh nyata.
+![Awikwok](awikwok/awikwok.jpg)
 
 ---
 
@@ -20,6 +21,6 @@ contoh/
 ├── nginx-with-label.yml          # Deploy NGINX dengan label
 ├── nginx-with-annotation.yml     # Deploy NGINX dengan annotation
 
-![Awikwok](awikwok/awikwok.jpg)
+
 
 
