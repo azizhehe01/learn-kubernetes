@@ -22,6 +22,7 @@ contoh/
 ├── nginx-with-annotation.yml     # Deploy NGINX dengan annotation
 ├── nginx-with-probe.yaml         # Contoh pembuatan probe
 ├── nginx-rc.yaml         # contoh buat rc(replication controller)
+├── nginx-rs.yaml         # contoh rs(replica set)
 
 
 
