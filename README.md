@@ -16,13 +16,14 @@ Tujuan dari repo ini adalah sebagai catatan belajar pribadi, serta referensi unt
 
 ```bash
 contoh/
-├── finance-namespace.yml          # Contoh pembuatan namespace
-├── nginx.yaml                     # Deploy sederhana NGINX
-├── nginx-with-label.yml          # Deploy NGINX dengan label
-├── nginx-with-annotation.yml     # Deploy NGINX dengan annotation
-├── nginx-with-probe.yaml         # Contoh pembuatan probe
-├── nginx-rc.yaml         # contoh buat rc(replication controller)
-├── nginx-rs.yaml         # contoh rs(replica set)
+├── finance-namespace.yml                  # Contoh pembuatan namespace
+├── nginx.yaml                             # Deploy sederhana NGINX
+├── nginx-with-label.yml                   # Deploy NGINX dengan label
+├── nginx-with-annotation.yml              # Deploy NGINX dengan annotation
+├── nginx-with-probe.yaml                  # Contoh pembuatan probe
+├── nginx-rc.yaml                          # contoh buat rc(replication controller)
+├── nginx-rs.yaml                          # contoh rs(replica set)
+├── nginx-rs-match-expression.yaml         # contoh mmatch expression
 
 
 
