@@ -1,4 +1,4 @@
-# 📦 Belajar Kubernetes  🗿
+# 📦 Belajar Kubernetes  🗿🗿
 
 Selamat datang di repositori **belajar Kubernetes**!  
 Repo ini berisi berbagai file konfigurasi YAML dan eksperimen pribadi saya saat mempelajari Kubernetes dari dasar.
