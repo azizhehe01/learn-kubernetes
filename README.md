@@ -24,6 +24,7 @@ contoh/
 ├── nginx-rc.yaml                          # contoh buat rc(replication controller)
 ├── nginx-rs.yaml                          # contoh rs(replica set)
 ├── nginx-rs-match-expression.yaml         # contoh mmatch expression
+├── daemon-nginx.yaml                      # contoh daemonsets
 
 
 
