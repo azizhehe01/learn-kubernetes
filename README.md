@@ -25,7 +25,11 @@ contoh/
 ├── nginx-rs.yaml                          # contoh rs(replica set)
 ├── nginx-rs-match-expression.yaml         # contoh mmatch expression
 ├── daemon-nginx.yaml                      # contoh daemonsets
+├── jobs-nodejs.yaml                       # pembuatan jobs
 
+images/
+
+├── nodejs-job/                            # images yang buat job (masih kurang paham si gua )
 
 
 
