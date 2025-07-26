@@ -26,6 +26,7 @@ contoh/
 ├── nginx-rs-match-expression.yaml         # contoh mmatch expression
 ├── daemon-nginx.yaml                      # contoh daemonsets
 ├── jobs-nodejs.yaml                       # pembuatan jobs
+├── cronjob-nodejs.yaml                    # membuat cronjob cihuyyyy
 
 images/
 
