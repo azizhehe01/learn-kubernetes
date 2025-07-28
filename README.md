@@ -27,7 +27,8 @@ contoh/
 ├── daemon-nginx.yaml                      # contoh daemonsets
 ├── jobs-nodejs.yaml                       # pembuatan jobs
 ├── cronjob-nodejs.yaml                    # membuat cronjob cihuyyyy
-├── nginx-node-selector.yaml                    # membuat node selector
+├── nginx-node-selector.yaml               # membuat node selector
+├── nginx-service.yaml                     # INI ASLI NYA GUA MAU BUAT SERVICE TAPI BELOM BERHASIL JIR (lanjut besok)
 
 images/
 

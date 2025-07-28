@@ -1,0 +1,44 @@
+apiVersion: apps/v1
+kind: replicaset
+metadata:
+  name: nginx
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: nginx
+  template:
+    metadata:
+      name: nginx
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:latest
+        ports:
+        - containerPort: 80
+
+---
+apiVersion: v1
+kind: service
+metadata:
+  name: nginx-service
+spec:
+  selector:
+    name: nginx
+  ports:
+    - port: 8080
+      targetPort: 80
+
+---
+apiVersion: v1
+kind: pod
+metadata:
+  name: curl
+  labels:
+    name: curl
+spec:
+  containers:
+  - name: curl
+    image: nginx-curl-image
