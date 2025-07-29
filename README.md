@@ -28,11 +28,12 @@ contoh/
 ├── jobs-nodejs.yaml                       # pembuatan jobs
 ├── cronjob-nodejs.yaml                    # membuat cronjob cihuyyyy
 ├── nginx-node-selector.yaml               # membuat node selector
-├── nginx-service.yaml                     # INI ASLI NYA GUA MAU BUAT SERVICE TAPI BELOM BERHASIL JIR (lanjut besok)
+├── nginx-service.yaml                     # anjay dah bisa cuy gelooo btw ini contoh buat service
 
 images/
 
 ├── nodejs-job/                            # images yang buat job (masih kurang paham si gua )
+├── nginx-curl/                            # images yang buat servce (masih kurang paham si gua )
 
 
 

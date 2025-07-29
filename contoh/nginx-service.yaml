@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: replicaset
+kind: ReplicaSet 
 metadata:
   name: nginx
 spec:
@@ -21,19 +21,19 @@ spec:
 
 ---
 apiVersion: v1
-kind: service
+kind: Service
 metadata:
   name: nginx-service
 spec:
   selector:
-    name: nginx
+    app: nginx
   ports:
     - port: 8080
       targetPort: 80
 
 ---
 apiVersion: v1
-kind: pod
+kind: Pod
 metadata:
   name: curl
   labels:
@@ -42,3 +42,4 @@ spec:
   containers:
   - name: curl
     image: nginx-curl-image
+    imagePullPolicy: Never 
