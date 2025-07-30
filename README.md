@@ -29,7 +29,7 @@ contoh/
 ├── cronjob-nodejs.yaml                    # membuat cronjob cihuyyyy
 ├── nginx-node-selector.yaml               # membuat node selector
 ├── nginx-service.yaml                     # anjay dah bisa cuy gelooo btw ini contoh buat service
-
+├── #hari gua cuma belajar mendapat kan environtment service sama mengakses ga pake ip karena lebih simpel
 images/
 
 ├── nodejs-job/                            # images yang buat job (masih kurang paham si gua )
